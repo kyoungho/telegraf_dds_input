@@ -6,7 +6,7 @@ Connext DDS input plugin consumes data over DDS by creating DDS readers defined 
 
 Download the repo
 
-    $ git clone git@github.com:kyoungho/dds_input.git
+    $ git clone https://github.com/kyoungho/dds_input.git
 
 build the "dds_input" binary
 
